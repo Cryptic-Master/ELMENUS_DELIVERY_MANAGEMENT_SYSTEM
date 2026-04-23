@@ -1,4 +1,3 @@
-//Habiba Elsayed Hemayed_20255110_Reem Mohamed Behairy_20246053_G3
 #include "Order.h"
 #include <iostream>
 #include <iomanip>
