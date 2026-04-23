@@ -1,4 +1,3 @@
-//Habiba Elsayed Hemayed_20255110_Reem Mohamed Behairy_20246053_G3
 #ifndef FOODITEM_H
 #define FOODITEM_H
 #include<string>
